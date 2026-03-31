@@ -1,8 +1,9 @@
 # Cattle/Buffalo Breed Classifier
 
 This project uses a ConvNeXt Tiny model to classify cattle and buffalo breeds from images.
-```
+
 ## Project Structure
+```
 cattle-breed-classifier/
 │
 ├── models/
