@@ -38,10 +38,15 @@ See notebooks/convon_tiny_breed-classifier.ipynb for training and evaluation.
 
    python src/inference.py path/to/your/image.jpg
 
-4.**Results:**
+4. **Results:**
   
   Confusion matrices for the first 5 epochs are in the results/ folder.
+  
+5. **model address:**
 
+   https://drive.google.com/file/d/1jSnusZFkYmf7n6L84k8FCPErX11aKdkV/view?usp=drive_link
+
+    ```zsh
 License
 MIT License
 
