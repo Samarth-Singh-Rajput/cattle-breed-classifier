@@ -11,16 +11,17 @@ livestock-cv-project/ │── models/ │ └── convnext_tiny_best_breed-c
 1. **Install dependencies:**
    ```zsh
    pip install -r requirements.txt
-2. Train the model:
+2. **Train the model:**
 
 See notebooks/convon_tiny_breed-classifier.ipynb for training and evaluation.
 
-3. Run inference:
-python src/inference.py path/to/your/image.jpg
+3. **Run inference:**
 
-4.Results:
+   python src/inference.py path/to/your/image.jpg
 
-Confusion matrices for the first 5 epochs are in the results/ folder.
+4.**Results:**
+  
+  Confusion matrices for the first 5 epochs are in the results/ folder.
 
 License
 MIT License
