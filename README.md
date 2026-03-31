@@ -41,6 +41,7 @@ See notebooks/convon_tiny_breed-classifier.ipynb for training and evaluation.
 4. **Results:**
   
   Confusion matrices for the first 5 epochs are in the results/ folder.
+  Accuracy achieved: **90.9%**
   
 5. **model address:**
 
