@@ -3,7 +3,21 @@
 This project uses a ConvNeXt Tiny model to classify cattle and buffalo breeds from images.
 
 ## Project Structure
-livestock-cv-project/ │── models/ │ └── convnext_tiny_best_breed-classifier.pth │ │── notebooks/ │ └── convon_tiny_breed-classifier.ipynb │ │── results/ │ ├── confusion_epoch_1.png │ ├── confusion_epoch_2.png │ ├── confusion_epoch_3.png │ ├── confusion_epoch_4.png │ ├── confusion_epoch_5.png │ └── README.md │ │── src/ │ └── inference.py │ │── requirements.txt │── README.md
+livestock-cv-project/ 
+│── models/ 
+│ └── convnext_tiny_best_breed-classifier.pth 
+│ │── notebooks/ │ └── convon_tiny_breed-classifier.ipynb 
+│ │── results/ │ 
+      ├── confusion_epoch_1.png 
+      │ ├── confusion_epoch_2.png 
+      │ ├── confusion_epoch_3.png 
+      │ ├── confusion_epoch_4.png 
+      │ ├── confusion_epoch_5.png 
+      │ └── README.md 
+│ │── src/ 
+      │ └── inference.py 
+│ │── requirements.txt 
+│── README.md
 
 
 ## How to Use
